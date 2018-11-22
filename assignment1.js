@@ -47,7 +47,7 @@ console.log(theArray);
 
 //answer to part 2
 
-const totalage=texasss.map((users) =>users.age).reduce((prev, next)=> prev + next);
+let totalage=texasss.map((users) =>users.age).reduce((prev, next)=> prev + next);
 document.write(totalage);
 
 // answer to part 3
