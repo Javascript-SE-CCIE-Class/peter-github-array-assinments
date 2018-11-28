@@ -8,7 +8,8 @@
  
  
  
- Part 3 - List all female coders i have used console.log
+
+Part 3 - List all female coders i have used console.log
 
 ###second array
 
@@ -23,5 +24,20 @@ Part 2 - Sort all users by age
 
 Part 3 -  List all female coders
 
+
+
 i have used all user input to diplay at the console.log
 
+
+###third array 
+
+
+Part 1 - Find the total age of male coders under 25
+
+
+
+Part 2 - List all male coders over 30
+
+
+
+Part 3 - Find the total age of everyone in texasss, newieyork and vegzas combined.
